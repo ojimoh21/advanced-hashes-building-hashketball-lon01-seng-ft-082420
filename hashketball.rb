@@ -77,7 +77,6 @@ def game_hash
       {:player_name => "DeSagna Diop",
 =======
       {:player_name => "DeSanga Diop",
->>>>>>> d9720015b5a7036cbb5495b221136a127800bf6a
         :number => 2,
         :shoe => 14,
         :points => 24,
