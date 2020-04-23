@@ -73,7 +73,11 @@ def game_hash
         :blocks => 15,
         :slam_dunks => 10},
       
+<<<<<<< HEAD
       {:player_name => "DeSagna Diop",
+=======
+      {:player_name => "DeSanga Diop",
+>>>>>>> d9720015b5a7036cbb5495b221136a127800bf6a
         :number => 2,
         :shoe => 14,
         :points => 24,
@@ -83,7 +87,11 @@ def game_hash
         :blocks => 5,
         :slam_dunks => 5},
       
+<<<<<<< HEAD
       {:player_name => "Ben Gordon",
+=======
+      {:player_name => "Ben Gordan",
+>>>>>>> d9720015b5a7036cbb5495b221136a127800bf6a
         :number => 8,
         :shoe => 15,
         :points => 33,
