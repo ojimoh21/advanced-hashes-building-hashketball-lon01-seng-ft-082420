@@ -73,10 +73,7 @@ def game_hash
         :blocks => 15,
         :slam_dunks => 10},
       
-<<<<<<< HEAD
       {:player_name => "DeSagna Diop",
-=======
-      {:player_name => "DeSanga Diop",
         :number => 2,
         :shoe => 14,
         :points => 24,
